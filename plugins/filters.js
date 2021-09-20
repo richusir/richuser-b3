@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 TERROR BOY.
+/* Copyright (C) 2021 VISHNU PRASAD
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhiteDevil - TERROR BOY
+Vishnu Prasad
 */
 const fs = require('fs')
 const Asena = require('../events');
