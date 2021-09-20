@@ -1,7 +1,7 @@
-/* Copyright (C) 2021 TERROR BOY.
+/* Copyright (C) 2021 VISHNYU-KYK
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
-WhiteDevil - TERROR BOY
+MEENAKSHI 2.0 _ VISHNU KYK/SUBHASHINI
 
 */
 
@@ -134,7 +134,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ WHITE DEVIL working!')
+            chalk.green.bold('✅ Enthaa mwonuse Fear aayo....???Meenakshi molu working aane!')
        );
         
          if (config.LANG == 'EN') {
