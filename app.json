@@ -1,10 +1,10 @@
 {
     "name": "WhiteDevil",
-    "description": "WhiteDevil- Whatsapp UserBot",
-    "logo": "https://i.imgur.com/kB30S41.png",
+    "description": "Meenakshi Whatsasena- Whatsapp UserBot",
+    "logo": "https://avatars.githubusercontent.com/u/87913417?v=4",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://www.github.com/terror-boy/WhiteDevil",
-    "website":   "https://www.github.com/terror-boy/WhiteDevil",
+    "repository": "https://www.github.com/vishnu-memanakizhakathil/Meenakshi",
+    "website":   "https://www.github.com/vishnu-memanakizhakathil/Meenakshi",
     "success_url": "https://www.github.com/terror-boy",
     "stack": "container",
     "env": {
@@ -59,12 +59,12 @@
         "Z_BOT_NAME": {
             "description": "give a name you disire to give your bot (for auto reply white to identify)",
             "required": false,
-            "value": "WHITEDEVIL"
+            "value": "MEENAKSHI"
         },
         "Z_DEP_NAME": {
-            "description": "bot deployer name make it short  (for auto reply white to identify)",
+            "description": "bot deployer name make it short  (for auto reply meenu to identify)",
             "required": false,
-            "value": "ktb"
+            "value": "vpk"
         },
         "Z_BOT_REPLY": {
             "description": "enter the repply message you want when deployer name is typed by users  (for auto reply white to identify)",
@@ -103,7 +103,7 @@
         "MUTE_MESSAGE": {
             "description": "Düzenlenebilir Mute Mesajı. Customizable Mute Message! Use => default, to change back.",
             "required": false,
-            "value": "**𝙒𝙃𝙄𝙏𝙀 𝘿𝙀𝙑𝙄𝙇 𝘽𝙊𝙏 _HAD CHANGE THIS GROUP TO ALLOW ONLY ADMINS CAN SEND MESSAGE_* _HAD CHANGE THIS GROUP TO ALLOW ONLY ADMINS CAN SEND MESSAGE_*"
+            "value": "**MEENAKSHI_HAD CHANGE THIS GROUP TO ALLOW ONLY ADMINS CAN SEND MESSAGE_* _HAD CHANGE THIS GROUP TO ALLOW ONLY ADMINS CAN SEND MESSAGE_*"
        },
          "THERI_LIST": {
             "description": "bad word ban...  add the bad words you dont allow in your grp (THERI_KICK must be true to run this feature , and dont change the 1st word ) example: plk-dqz,f**k,d**k",
@@ -114,7 +114,7 @@
         "TAG_HEADER": {
             "description": "Heading when taging all",
             "required": false,
-            "value": "*𝙒𝙃𝙄𝙏𝙀 𝘿𝙀𝙑𝙄𝙇 𝘽𝙊𝙏*"
+            "value": "*MEENAKSHI*"
         },
         "WEL_GIF": {
             "description": "Fill here any gif link if you selected gif as WEELCOME",
@@ -134,7 +134,7 @@
         "UNMUTE_MESSAGE": {
             "description": "Düzenlenebilir Unmute Mesajı. Customizable Unmute Message! Use => default, to change back.",
             "required": false,
-            "value": "*𝙒𝙃𝙄𝙏𝙀 𝘿𝙀𝙑𝙄𝙇 𝘽𝙊𝙏 _HAD CHANGE THIS GROUP TO ALLOW ALL CAN SEND MESSAGE TO THIS GROUP_*"
+            "value": "*MEENAKSHI _HAD CHANGE THIS GROUP TO ALLOW ALL CAN SEND MESSAGE TO THIS GROUP_*"
         },
         "BLOCK_MESSAGE": {
             "description": "Düzenlenebilir Block Mesajı. Customizable Block Message! Use => default, to change back.",
@@ -167,7 +167,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "\n *HELLO, I'M WHITE DEVIL BOT USED FOR ENTERTAINMENT PURPOSE* \n\n ```നീ ഏതാ..... ഒന്ന് പോടെയ് അവൻ ജീവൻ ഉണ്ടോ ചോയ്ച്ച് വന്നിരിക്കുന്നു😤...I'm Different Bot U Know```*Ok, ഇനി ചോദിക്കരുത്* \n *[!help]*  *[!menu]* *[!list]*  *ടൈപ്പ് ചെയ്താൽ മതി commands അറിയാൻ*"
+            "value": "\n *HELLO, I'M MEENAKSHI AI WHATSAPP CHAT BOT USED FOR ENTERTAINMENT PURPOSE* \n\n ```Athokke potte നീ ഏതാ..... ഒന്ന് പോടെയ് അവൻ ജീവൻ ഉണ്ടോ ചോയ്ച്ച് വന്നിരിക്കുന്നു😤...I'm Different Bot U Know```*Ok, ഇനി ചോദിക്കരുത്* \n *[!help]*  *[!menu]* *[!list]*  *ടൈപ്പ് ചെയ്താൽ മതി commands അറിയാൻ*"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
