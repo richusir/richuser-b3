@@ -51,7 +51,7 @@ module.exports = {
     WSU: process.env.WSU === undefined ? '*꧁•⊹٭𝚄𝙿𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 𝚂𝚃𝙰𝚃𝚄𝚂٭⊹•꧂*' : process.env.WSU,
     SONGD: process.env.SONGD === undefined ? 'ᴅᴏᴡɴʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGD,
     SONGU: process.env.SONGU === undefined ? 'ᴜᴘʟᴏᴀᴅɪɴɢ ꜱᴏɴɢ' : process.env.SONGU,
-    TALKING_WHITEDEVIL: process.env.TALKING_WHITEDEVIL === undefined ? 'false' : process.env.TALKING_WHITEDEVIL,
+    MEENU_AI: process.env.MEENU_AI === undefined ? 'false' : process.env.MEENU_AI,
     WEL_GIF: process.env.WEL_GIF === undefined ? 'https://i.imgur.com/nErXUGj.mp4' : process.env.WEL_GIF,
     GIF_BYE: process.env.GIF_BYE === undefined ? 'https://i.imgur.com/Z1jCYGN.mp4' : process.env.GIF_BYE,
     BLOCKMSG: process.env.BLOCK_MESSAGE === undefined ? 'default' : process.env.BLOCK_MESSAGE,
