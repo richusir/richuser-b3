@@ -1,9 +1,9 @@
-/* Copyright (C) 2021 TERROR-BOY 
+/* Copyright (C) 2021 Meenakshi
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhiteDevil - TERROR-BOY 
+VISHNUPRASAD_2021 
 */
 
 const fs = require('fs');
