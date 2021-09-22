@@ -1,10 +1,10 @@
-## Warning
+## Warning ⚠️
 
 ```
-Due to Userbot; Your WhatsApp account may be banned.
+Due to usage of Meenakshi; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
+Absolutely, Meenakshi developer do not accept responsibility.
+By establishing the Meenakshi, you are deemed to have accepted these responsibilities.
 
 Your account may be banned for the following reasons:
 - Using .ban command for more than one user.
@@ -78,23 +78,6 @@ Mail അയച്ചാൽ മതിയാകും
 This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more useful to you
 ```
 
-### Disclaimer ❗
-```
-  
-Meenakshi - Meenakshi Userbot is Open Source software open to development. 
-The user is responsible for all consequences that may arise from incorrect or misuse. 
-Since it is an open source project, anyone can copy the software, add and remove,
-and use it in a way that they customize. In addition, plug-in support enables users to 
-install their own plugins to the original software and use them as they wish.
-Using the bot out of purpose will explicitly ban you.
-Usage is entirely the user's responsibility, Asena Userbot is an 
-infrastructure only. Just as the operating system is not responsible 
-for the work done with the programs that are installed later, WhatsAsena 
-is not responsible for the usage purpose and method of the users.
-Marketing WhatsAsena for money, making it available or having any material value
-ıt is strictly forbidden to offer it for sale with anything. All legal investigations that may arise
-the user is responsible.
-```
 
 ### 𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐲 𝐒𝐭𝐚𝐭𝐮𝐬 ⚠️
 ```
