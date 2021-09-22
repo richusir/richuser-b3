@@ -1,6 +1,6 @@
-/* Copyright (C) 2021 TERROR-BOY.
+/* Copyright (C) 2021 VISHNU-KYK
 
-WhiteDevil - TERROR-BOY
+Meenakshi-WhatsAsena
 */
 
 const { Sequelize } = require('sequelize');
@@ -71,9 +71,9 @@ module.exports = {
     YAK: process.env.YAK === undefined ? '919778042644,0' : process.env.YAK,
     SEND_READ: process.env.SEND_READ === undefined ? false : convertToBool(process.env.SEND_READ),
     BRANCH: 'master',
-    DEVELOPER: 'TERROR BOY',
-    AUTHOR: 'TERROR BOY',
-    GIT: 'https://github.com/terror-boy/WhiteDevil.git',
+    DEVELOPER: 'VISHNU PRASAD',
+    AUTHOR: 'SUBHASHINI',
+    GIT: 'https://github.com/vishnu-memanakizhakathil/Meenakshi.git',
     HEROKU: {
         HEROKU: process.env.HEROKU === undefined ? false : convertToBool(process.env.HEROKU),
         API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
