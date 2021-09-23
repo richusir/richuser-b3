@@ -1,14 +1,14 @@
 {
-  "name": "WhiteDevil",
+  "name": "Meenakshi",
   "version": "7.3.6",
-  "description": "WhiteDevil is the Modified Version of WhatsAsena, Made By @TERROR BOY with Baileys.",
-  "main": "./WhiteDevil/bot.js",
+  "description": "Meenakshi is the Modified Version of WhatsAsena, modified by Vishnu-memanakizhakathil with Baileys.",
+  "main": "./Meenakshi/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/terror-boy/WhiteDevil.git"
+    "url": "git+https://github.com/vishnu-memanakizhakathil/Meenakshi.git"
   },
   "keywords": [
     "whatsapp",
@@ -17,13 +17,13 @@
     "asena",
     "WhatsAsena"
   ],
-  "author": "terror-boy",
-  "developer": "@terror-boy / @farhan-dqz",
+  "author": "vishnu-memanakizhakathil",
+  "developer": "@vishnu-memanakizhakathil / @subashini",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/terror-boy/WhiteDevil/issues"
+    "url": "https://github.com/vishnu-memanakizhakathil/Meenakshi/issues"
   },
-  "homepage": "https://github.com/terror-boy/WhiteDevil#readme",
+  "homepage": "https://github.com/vishnu-memanakizhakathil/Meenakshi#readme",
   "dependencies": {
     "@adiwajshing/baileys": "3.5.2",
     "@lh2020/speedtest-net": "^2.1.1",
