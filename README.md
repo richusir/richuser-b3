@@ -88,7 +88,7 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 
 - ✅ New Baileys version updated (3.5.2) @adiwajshing/baileys
 - ✅ New QR updated
-- ✅ Eva Artifical Intelligence Bug Fixed...
+- ✅ Aco Artifical Intelligence...
 
 ```
    Last Update : 21/Aug/2021 - 11:52am
@@ -96,7 +96,7 @@ This is a modified version of WhatsAsena 1.3🙋🏻‍♀️It will be more use
 
 ## 𝐔𝐩𝐜𝐨𝐦𝐢𝐧𝐠 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 💁🏻‍♀️
 
-- ⬆️ Instagram Downloader
+- ⬆️ Button Feature
 - ⬆️ Facebook Downloader(𝐍𝐞𝐰)
 
 
