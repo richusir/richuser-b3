@@ -126,9 +126,9 @@ Project created by <a href="https://github.com/richusir">ITZmeRICHUSER</a> to ma
     <img src="https://img.shields.io/github/repo-size/richusir/richuser-b3?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
 <a href="https://github.com/richusir/followers"><img title="Followers" src="https://img.shields.io/github/followers/richusir?color=pink&style=flat-square"></a>
-<a href="https://github.com/richusir/richuser-b3-b3/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/richusir/richuser-b3?color=pink&style=flat-square"></a>
-<a href="https://github.com/richusir/richuser-b3-b3/network/members"><img title="Forks" src="https://img.shields.io/github/forks/richusir/richuser-b3?color=pink&style=flat-square"></a>
-<a href="https://github.com/richusir/richuser-b3-b3/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/richusir/richuser-b3?label=Watchers&color=pink&style=flat-square"></a>
+<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/richusir/richuser-b3?color=pink&style=flat-square"></a>
+<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/network/members"><img title="Forks" src="https://img.shields.io/github/forks/richusir/richuser-b3?color=pink&style=flat-square"></a>
+<a href="https://github.com/vishnu-memanakizhakathil/Meenakshi/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/richusir/richuser-b3?label=Watchers&color=pink&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-pink.svg"</a>
 </p>
 
@@ -182,7 +182,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/richusir/richuser-b3
+$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
 $ cd richuser-b3
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -192,7 +192,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/richusir/richuser-b3-b3
+$ git clone https://github.com/vishnu-memanakizhakathil/Meenakshi
 $ cd richuser-b3
 $ chmod +x *
 $ npm i
