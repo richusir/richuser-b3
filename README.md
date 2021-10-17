@@ -50,7 +50,7 @@ Mail അയച്ചാൽ മതിയാകും
 
 ## ഇക്കാച്ചി says 
 <div align="center">
-  <img border-radius: 15px src="IMG-20210921-WA1157.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="20211015_102831.jpg" width="200" height="200"/>
   <p align="center">
 
 ## Remember💫
