@@ -157,7 +157,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IBmcCYL2YUpFZJdWMA68it)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-kl29&repo=richuser-b3&theme=nightowl)](https://github.com/vishnu-kl29/richuser-b3)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=vishnu-kl29&repo=Meenakshi&theme=nightowl)](https://github.com/vishnu-kl29/Meenakshi)
   </div>
     
 ## Setup
@@ -167,7 +167,7 @@ Click WA logo to Join Support Group 👇
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@vishnukyk/Meenakshi-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-kl29/richuser-b3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/vishnu-kl29/Meenakshi)
      </div>
 <br>
 <br >
