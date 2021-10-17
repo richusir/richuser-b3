@@ -112,7 +112,7 @@ This is a modified version of WhatsAsena 1.3👼️It will be more useful to you
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/richusir">Vishnu Prasad</a> to make it public
+Project created by <a href="https://github.com/richusir">ITZME </a> to make it public
     <br>
        | © |
         Reserved |
