@@ -55,7 +55,7 @@ Mail അയച്ചാൽ മതിയാകും
 
 ## Remember💫
 <div align="center">
-  <img border-radius: 15px src="IMG-20210922-WA1170.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="20211016_143521.jpg" width="200" height="200"/>
   <p align="center">
 
 
