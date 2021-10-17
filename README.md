@@ -54,9 +54,9 @@ Mail അയച്ചാൽ മതിയാകും
   <p align="center">
 
 ## Remember💫
-<div align="center">
-  <img border-radius: 15px src="20211016_143521.jpg" width="200" height="200"/>
-  <p align="center">
+
+
+
 
 
 
